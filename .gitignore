@@ -1,0 +1,3 @@
+# Archivos que genera la app al ejecutarse
+*.json
+cookies*.txt
